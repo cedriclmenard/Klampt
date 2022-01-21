@@ -1,6 +1,8 @@
 #ifndef QKLAMPTDISPLAY_H
 #define QKLAMPTDISPLAY_H
 
+#include <GL/gl.h>
+
 #include <QGLWidget>
 #include <QKeyEvent>
 #include "GLScreenshotPlugin.h"
